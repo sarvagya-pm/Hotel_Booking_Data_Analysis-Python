@@ -1,5 +1,5 @@
 # Hotel_Booking_Data_Analysis-Python
-
+![Data Analysis with Python img](Data Analysis-python.jpg)
 ## 📌 Project Overview
 This project analyzes hotel booking data to uncover trends and insights related to customer behavior, booking patterns, and factors influencing cancellations. The analysis is performed using Python, Pandas, and visualization libraries such as Seaborn and Matplotlib.
 
