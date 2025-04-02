@@ -29,7 +29,7 @@ This project analyzes hotel booking data to uncover trends and insights related 
 To run this project locally:
 
 1.) Clone the repository:
-git clone https://github.com/sarvagya-pm/hotel-booking-analysis.git cd hotel-booking-analysis
+git clone https://github.com/your_user-name/hotel-booking-analysis.git cd hotel-booking-analysis
 
 2.) Install dependencies:
 pip install pandas numpy matplotlib seaborn jupyter
@@ -47,4 +47,4 @@ jupyter notebook
 - Relationship between lead time and booking cancellations.
 
 ## 🤝 Contributing
-Feel free to fork this repository and submit pull requests for improvements or additional analyses.
+You can fix this repository and submit pull requests for improvements or additional analysis.
